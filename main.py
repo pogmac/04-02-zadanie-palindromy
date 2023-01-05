@@ -22,7 +22,7 @@ def palindromy (word):
     return my_bolean
         
 
-if palindromy("Kajak"):
+if palindromy("kajak"):
     print("To jest palindrom")       
 else:
     print("To nie jest palindrom")    
